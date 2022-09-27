@@ -12,4 +12,4 @@ UDP, e IP?
 
 ### 5 ¿Cuál es el significado de la siguiente respuesta de un servidor?
 HTTP/1.1 302 Found
-Location: http://www.example.com/test/index2.php
+Location: http://www.example.com/test/index2.php 
