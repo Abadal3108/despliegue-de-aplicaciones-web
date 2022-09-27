@@ -14,3 +14,13 @@
 ### HTTP/1.1 302 Found
 ### Location: http://www.example.com/test/index2.php 
 El recurso solicitado ha sido movido temporalmente a la URL dada por las cabeceras Location 
+
+### 6. Utilizando el filtro de captura para la interfaz de red de Wireshark, analiza la petición
+### al host: www.google.com. Mostrando la cabecera IP, la dirección IP de tu ordenador y
+### la del servidor. Comprueba que, poniendo esa IP en el navegador, accedas a Google.
+
+![image](https://user-images.githubusercontent.com/113515441/192511255-de623238-574e-487f-aeac-a9f2db3307b1.png)
+![image](https://user-images.githubusercontent.com/113515441/192511345-085fe6d1-8c8f-4fe7-bde4-a429defade6c.png)
+![image](https://user-images.githubusercontent.com/113515441/192511395-b3bfaf4c-ac66-40a1-a4ae-b944bcb4e6e8.png)
+
+
