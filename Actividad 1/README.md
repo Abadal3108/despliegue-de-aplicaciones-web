@@ -1,7 +1,12 @@
 ### 3. Analiza los headers de las peticiones cuando inicias sesión en el Moodle y comprende
 ### cómo se obtiene el token. Para ello, necesitamos saber de dónde salen TODOS los
 ### datos sensibles que se envían.
+![image](https://user-images.githubusercontent.com/113515441/192512769-4d307c08-82b6-4935-ad4f-4cede814aee1.png)
+![image](https://user-images.githubusercontent.com/113515441/192512834-68ac5ef7-a63a-4e99-ac8b-f665a8be10b3.png)
 
+
+
+El token se obtiene usando una API
 
 ### 4. ¿A qué puerto se reciben normalmente las peticiones del protocolo HTTP? ¿A qué
 ### capa del modelo TCP/IP se encuentra el protocolo HTTP? ¿Y los protocolos TCP,
